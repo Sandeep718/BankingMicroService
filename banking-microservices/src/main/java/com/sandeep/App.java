@@ -5,6 +5,6 @@ package com.sandeep;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello banking-18");
+        System.out.println("bank is a temple-18");
     }
 }
